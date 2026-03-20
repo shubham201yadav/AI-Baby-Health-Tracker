@@ -15,7 +15,4 @@ AI Baby Health Tracker is a chatbot-based application designed to assist parents
 ## 📌 How It Works
 - User enters query
 - Chatbot processes input
-- API generates response
-
-## 👨‍💻 Author
-Shubham Yadav
+- API generates response 
